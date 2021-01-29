@@ -1,5 +1,5 @@
 ### Hi there 👋
-! [Yusset Roque Martinez] (archivo: /// C: /Users/a19b74061/Pictures/flores.jpg)
+
 <!--
 **YussetRoque/YussetRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
