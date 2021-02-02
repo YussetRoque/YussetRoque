@@ -1,6 +1,5 @@
 ### Hi there 👋
-![ I am GitHub Readme Generator's creator](![](C:\Users\a19b74061\Pictures)
-
+![ I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/1e/35/3f/1e353fd043b97469cf69dcb3bdc7f00c.jpg)
 <!--
 **YussetRoque/YussetRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
