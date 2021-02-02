@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Yusset :butterfly: :cherry_blossom:
 
-![file:///C:/Users/a19b74061/Downloads/aesthetic-space-Tumblr-fondosss-en-2019-Fondos-para-pc-.jpg]
+!
 <!--
 **YussetRoque/YussetRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
