@@ -1,6 +1,14 @@
 ### Hi there 👋 My name is Yusset :butterfly: :cherry_blossom:
 
 ![I am GitHub Readme Generator's creator](https://i.pinimg.com/originals/37/4c/69/374c69f39d218ff9857a7177c94be591.png)
+
+<b> <h3> 📜 I’m currently learning </b> </h3> 
+
+<h1 align = "center"> Hola 👋, soy Yusset </h1>
+<h3 align = "center"> Un desarrollador de frontend apasionado de Rep.Dom </h3>
+
+
+
 <!--
 **YussetRoque/YussetRoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
